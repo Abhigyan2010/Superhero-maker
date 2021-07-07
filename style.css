@@ -1,0 +1,11 @@
+body{
+    background-image: url("avenger_bg.jpg");
+    text-align: center;
+}
+h1,b,h3{
+    color: chartreuse;
+}
+canvas{
+    border: ridge 10px grey;
+    background-color: white;
+}
